@@ -16,6 +16,7 @@
 		9771F6CD1DF0D68E00B2B06D /* VendingInventory.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9771F6CC1DF0D68E00B2B06D /* VendingInventory.plist */; };
 		E10BFB521F4A031000B63729 /* VendingMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10BFB511F4A031000B63729 /* VendingMachine.swift */; };
 		E117252D1F4A06750061D48C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E117252C1F4A06750061D48C /* Default-568h@2x.png */; };
+		E17F29C91F50D132005BF02F /* DepositController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17F29C81F50D132005BF02F /* DepositController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		9771F6CC1DF0D68E00B2B06D /* VendingInventory.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = VendingInventory.plist; sourceTree = "<group>"; };
 		E10BFB511F4A031000B63729 /* VendingMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VendingMachine.swift; sourceTree = "<group>"; };
 		E117252C1F4A06750061D48C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		E17F29C81F50D132005BF02F /* DepositController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DepositController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				9771F6BD1DF0833300B2B06D /* LaunchScreen.storyboard */,
 				9771F6C01DF0833300B2B06D /* Info.plist */,
 				9771F6CC1DF0D68E00B2B06D /* VendingInventory.plist */,
+				E17F29C81F50D132005BF02F /* DepositController.swift */,
 			);
 			path = VendingMachine;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			files = (
 				9771F6B71DF0833300B2B06D /* ViewController.swift in Sources */,
 				9771F6B51DF0833300B2B06D /* AppDelegate.swift in Sources */,
+				E17F29C91F50D132005BF02F /* DepositController.swift in Sources */,
 				9771F6C71DF0A6C000B2B06D /* VendingItemCell.swift in Sources */,
 				E10BFB521F4A031000B63729 /* VendingMachine.swift in Sources */,
 			);
